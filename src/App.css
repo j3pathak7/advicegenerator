@@ -119,3 +119,11 @@
         height: 30%;
     }
 }
+
+footer{
+            text-align: center;
+            padding: 3px;
+            background-color: navy;
+            color: white;
+            opacity: 0.7;
+}
